@@ -48,37 +48,3 @@ function displayGames(games) {
     // Mostrar la tabla después de mostrar los resultados
     juegosTable.classList.remove('hidden');
 }
-
-// Registro de usuarios
-document.addEventListener('DOMContentLoaded', function () {
-    const form = document.getElementById('registroForm');
-    
-    form.addEventListener('submit', function (event) {
-        event.preventDefault();
-        
-        const nombre = document.getElementById('nombre').value;
-        const apellido = document.getElementById('apellido').value;
-        const correo = document.getElementById('correo').value;
-        const contrasena = document.getElementById('contrasena').value;
-        
-        const usuario = {
-            nombre: nombre,
-            apellido: apellido,
-            correo: correo,
-            contrasena: contrasena
-        };
-        
-        let usuarios = localStorage.getItem('usuarios');
-        if (!usuarios) {
-            usuarios = [];
-        } else {
-            usuarios = JSON.parse(usuarios);
-        }
-        
-        usuarios.push(usuario);
-        localStorage.setItem('usuarios', JSON.stringify(usuarios));
-        
-        alert('Usuario registrado exitosamente');
-        form.reset();
-    });
-});

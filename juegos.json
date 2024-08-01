@@ -1,0 +1,99 @@
+[
+    {
+      "title": "Grand Theft Auto V",
+      "platform": "Multiplataforma",
+      "price": 19480,
+      "image": "imágenes/imagen1.jpg"
+    },
+    {
+      "title": "Red Dead Redemption",
+      "platform": "Multiplataforma",
+      "price": 20000,
+      "image": "imágenes/imagen2.jpg"
+    },
+    {
+      "title": "Mortal Kombat XL",
+      "platform": "Multiplataforma",
+      "price": 17000,
+      "image": "imágenes/imagen3.jpg"
+    },
+    {
+      "title": "Fallout: New Vegas",
+      "platform": "Multiplataforma",
+      "price": 15000,
+      "image": "imágenes/imagen4.jpg"
+    },
+    {
+      "title": "God Of War: Ragnarok",
+      "platform": "Play 4",
+      "price": null,
+      "image": "imágenes/PSGOF1.jpeg"
+    },
+    {
+      "title": "Horizon Forbidden West",
+      "platform": "Play 4",
+      "price": null,
+      "image": "imágenes/PSHorizon.jpeg"
+    },
+    {
+      "title": "Spider-Man 2",
+      "platform": "Play 4",
+      "price": null,
+      "image": "imágenes/PSSP21.jpeg"
+    },
+    {
+      "title": "Más juegos Play 4",
+      "platform": "Play 4",
+      "price": null,
+      "image": "imágenes/ps.jpeg"
+    },
+    {
+      "title": "Robin Hood: Sherwood Builders",
+      "platform": "Xbox",
+      "price": null,
+      "image": "imágenes/XRobin.jpeg"
+    },
+    {
+      "title": "Outpost",
+      "platform": "Xbox",
+      "price": null,
+      "image": "imágenes/XOutpost.jpeg"
+    },
+    {
+      "title": "Death",
+      "platform": "Xbox",
+      "price": null,
+      "image": "imágenes/XDeath.jpeg"
+    },
+    {
+      "title": "Más juegos Xbox",
+      "platform": "Xbox",
+      "price": null,
+      "image": "imágenes/xbox.jpeg"
+    },
+    {
+      "title": "GTA",
+      "platform": "PC",
+      "price": null,
+      "image": "imágenes/pc.jpeg"
+    },
+    {
+      "title": "Marvel's Spider-Man Remastered",
+      "platform": "PC",
+      "price": null,
+      "image": "imágenes/pc2.jpeg"
+    },
+    {
+      "title": "Spider-Man: Miles Morales",
+      "platform": "PC",
+      "price": null,
+      "image": "imágenes/pc3.jpeg"
+    },
+    {
+      "title": "Jedi: Survivor",
+      "platform": "PC",
+      "price": null,
+      "image": "imágenes/PCJedi.jpeg"
+    }
+  ]
+  
